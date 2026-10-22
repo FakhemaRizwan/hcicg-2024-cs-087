@@ -1,2 +1,4 @@
-# HCI Human Computer Interction
-Fakhema Rizwan, Roll No.: 2024-c-087, Toolchain: C++/ Python/ WebGL
+# HCI & Computer Graphics
+Name: Fakhema Rizwan
+Registration No: 2024-CS-087
+Toolchain: Python (GLFW + PyOpenGL)
